@@ -3,13 +3,14 @@
   "description": "Sweet Alert Directive",
   "version": "2.0.0",
   "authors": [
-    "Tushar Borole <tushariscoolster@gmail.com>"
+    "Tushar Borole <tushariscoolster@gmail.com>",
+    "Karl Vaillant <vaillant.karl.971@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tushariscoolster/ng-sweet-alert"
+    "url": "https://github.com/kvaillant/ng-sweet-alert"
   },
-  "homepage": "http://tushariscoolster.github.io/ng-sweet-alert/",
+  "homepage": "https://github.com/kvaillant/ng-sweet-alert",
   "license": "LGPL-2.1",
   "main": "ng-sweet-alert.js",
   "keywords": ["sweetalert",
